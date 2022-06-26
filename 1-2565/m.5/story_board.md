@@ -96,3 +96,19 @@
 ![img_plan](https://sites.google.com/a/thoengwit.ac.th/korbkid/_/rsrc/1467137535995/khorng-ngan-khxmphiwtexr/story1.JPG)
 
 อ้างอิง [การสร้าง Story board - Rititnan Somasuk](https://sites.google.com/site/khruthim/kar-srang-story-board)
+
+
+# ใบงานที่ 5
+		 
+ให้นักเรียนเข้าที่เว็บไซต์ [boords](https://boords.com/) เพื่อสร้าง story board ของนักเรียนเอง
+เงื่อนไขในการส่งมีดังนี้
+* ต้องทำมาไม่ตำกว่า 4 frame
+* ใส่ชื่อเหตุการณ์ในช่อง Label ให้ครบ
+* ระบบเสียงให้ชัดเจน
+* ระบุ Action ให้ชัดเจน
+## ส่งใบงานที่ 5 
+* เข้าไปที่เว็บไซต์ [LMS](https://lms.wk18k.online/logout) คลิกเลย
+* จากนั้นกรอกรหัสนักเรียนและรหัสผ่านให้เรียบร้อย
+* จากนั้นเลือกรายวิชาที่เรียน
+* จากนั้นคลิกที่ [ส่งใบงานที่ 5](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=porton555@kpv.ac.th&su=%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%81%E0%B8%A3%20%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%B5%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%20%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%9A%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%205%20%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%20%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5(%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1)%20%E0%B8%A1.5&body=%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%20%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%81%E0%B8%A3%20%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%B5%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%0A%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%9A%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%205%0A%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%20%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5(%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1)%20%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%20%E0%B8%A1.5%0A---%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%AD%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%A5%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%A5%20porton007@kpv.ac.th%20%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%84%E0%B8%A1%E0%B9%88------%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%9E%E0%B8%9A%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%81%E0%B9%8C%20---%0A---%20https://t.ly/QwE_%20---)
+*  **หากกดแล้วขึ้นให้ใส่อีเมล นักเรียนก็ใส่อีเมลของนักเรียนที่ทางโรงเรียนออกให้**
