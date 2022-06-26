@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
-site_favicon: favicon.ico
+favicon: favicon.ico
 site_author: wk18k
+language: thai
+use_logo: true
 site_description: 'เอกสารสำหรับสอนของ wk18k'
 repo_name: GitHub
 repo_url: https://github.com/watchakorn-18k/documents-for-teach
